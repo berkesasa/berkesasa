@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke!</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3> <br>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 # 💫 About Me:
 🔭 I’m currently working at indensi<br>🌱 I’m currently learning React, Redux, Typescript<br>👨‍💻 All of my projects are available at <a href="https://berkesasa.com">berkesasa.com</a><br>📫 How to reach me sasaberke@outlook.com
