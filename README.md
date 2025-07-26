@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=berkesasa)
+
 <h1 align="center">Hi 👋,  I'm Berke!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
