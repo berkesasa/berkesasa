@@ -1,15 +1,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkesasa&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="piyush64-bit" />
-  [![GitCheck Score](https://gitcheck.me/api/badge/berkesasa)](https://gitcheck.me/dashboard/berkesasa)
 </p>
 
+<p align="center">
+  <a href="https://gitcheck.me/dashboard/berkesasa">
+    <img src="https://gitcheck.me/api/badge/berkesasa" alt="GitCheck Score">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋,  I'm Berke!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning React, Next.js, Redux, Typescript<br>👨‍💻 All of my projects are available at <a href="https://berkesasa.com">berkesasa.com</a><br>📫 How to reach me sasaberke@outlook.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkesasa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19209743) 
