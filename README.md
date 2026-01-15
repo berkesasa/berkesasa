@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkesasa&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="piyush64-bit" />
+  [![GitCheck Score](https://gitcheck.me/api/badge/berkesasa)](https://gitcheck.me/dashboard/berkesasa)
 </p>
+
 
 <h1 align="center">Hi 👋,  I'm Berke!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
